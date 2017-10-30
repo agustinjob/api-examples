@@ -10,8 +10,8 @@ services:
       STAGE: dev
       AWS_S3_REGION: "us-east-1"
       AWS_S3_UPLOAD_BUCKET: "valid-s3-bucket-here"
-      APP_ID: "your-app-id-here"
-      APP_KEY: "your-app-key-here"
+      APP_ID: "7377b58c"
+      APP_KEY: "8956521c7792b2f33d92cb05e4e47f87"
       API_URL: "https://api.kairos.com"
       API_TIMEOUT: "10" 
       POLL_TIMEOUT: "300"
